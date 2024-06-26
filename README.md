@@ -1,6 +1,6 @@
 # WanderLust
 
-Wandelust is a property booking platform that allows users to list their properties and book available properties. It is built using the MERN stack and follows the MVC architectural pattern for better code organization and maintainability.
+Wandelust is a property booking platform that allows users to list their properties. It is built using the MERN stack and follows the MVC architectural pattern for better code organization and maintainability.
 
 ## Features
 
